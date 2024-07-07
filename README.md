@@ -26,7 +26,13 @@ This is a practice project built using Nest.js.
    DATABASE_URL=your-database-url
    ```
 
-4. **Run the development server**
+4. **Seed the DB**
+
+   ```sh
+     pnpm dlx prisma db seed
+   ```
+
+5. **Run the development server**
    ```sh
    pnpm start:dev
    ```
