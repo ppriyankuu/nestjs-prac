@@ -1,20 +1,20 @@
 # Nest.js Backend
 
-This is a practice project built using Nest.js.
+This is a dummy backend (for practice) built using Nest.js.
 
 ## How to Run
 
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/ppriyankuu/nestjs-prac
-   cd nestjs-prac
+      git clone https://github.com/ppriyankuu/nestjs-prac
+      cd nestjs-prac
    ```
 
 2. **Install dependencies**
 
    ```sh
-   pnpm install
+      pnpm install
    ```
 
 3. **Setup the database**
@@ -23,7 +23,7 @@ This is a practice project built using Nest.js.
    - Add your database URL to the `.env` file:
 
    ```env
-   DATABASE_URL=your-database-url
+      DATABASE_URL=your-database-url
    ```
 
 4. **Seed the DB**
@@ -34,5 +34,5 @@ This is a practice project built using Nest.js.
 
 5. **Run the development server**
    ```sh
-   pnpm start:dev
+      pnpm start:dev
    ```
