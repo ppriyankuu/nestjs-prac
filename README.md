@@ -2,7 +2,7 @@
 
 This is a dummy backend (for practice) built using Nest.js.
 
-## How to Run
+## How to Run?
 
 1. **Clone the repository**
 
